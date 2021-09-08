@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**MMSymbiosys/MMSymbiosys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-MM Symbio Systems is a Learning Cum Teaching - Multi Domain Learning Center
+### MM Symbio Systems is a Learning Cum Teaching - Multi Domain Learning Center
 
 - 🔭 We currently working on Computer Language Basics - Python, CPP
 - 🌱 We currently learning on Solar Power Management using Embedded Science to harness and store for human usage
@@ -13,5 +6,4 @@ MM Symbio Systems is a Learning Cum Teaching - Multi Domain Learning Center
 - 💬 Ask us about different experts in current research
 - 📫 How to reach me: mmsysmbiosys@gmail.com
 - 😄 Pronouns: Adventure exposure in field of Science
-- ⚡ Fun fact: "We forget many useful applicaiton of science for betterment of human life. Example: Seeback effect for cooling, current generation. 
--->
+- ⚡ Fun fact: "We forget many useful applicaiton of science for betterment of human life. Example: Seeback effect for cooling, power generation. 
