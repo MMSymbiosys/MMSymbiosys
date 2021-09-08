@@ -1,4 +1,4 @@
-### MM Symbio Systems is a Learning Cum Teaching - Multi Domain Learning Center
+### MM Symbio Systems is a Multi Domain Learning Center
 
 - 🔭 We currently working on Computer Language Basics - Python, CPP
 - 🌱 We currently learning on Solar Power Management using Embedded Science to harness and store for human usage
